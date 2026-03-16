@@ -1,2 +1,11 @@
 # Discord-account-creator-
-DISCORD ACCOUNT CREATOR | TOKEN CREATOR | PROXY 
+
+- TOKEN CREATOR 
+- PROXY SUPPORT
+- AUTO JOIN SERVER
+- hCaptcha bypass
+
+
+# TELEGRAM FOR INFO
+
+https://t.me/johnreal01
