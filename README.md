@@ -5,7 +5,6 @@
 - AUTO JOIN SERVER
 - hCaptcha bypass
 
-
 # TELEGRAM FOR INFO
 
 https://t.me/johnreal01
